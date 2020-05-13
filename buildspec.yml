@@ -22,5 +22,6 @@ phases:
 artifacts:
     files:  
     - "**/*"
+    - dist/index.html
     discard-paths: no
     base-directory: dist
