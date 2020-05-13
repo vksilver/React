@@ -1,0 +1,8 @@
+{
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b0420322-138b-4416-9cc5-bdf840c2ef0d/resourceGroups/svas/providers/Microsoft.Web/sites/svasapp"
+}
